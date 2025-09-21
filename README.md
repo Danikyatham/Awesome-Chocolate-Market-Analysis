@@ -15,7 +15,7 @@ This project dives into a comprehensive chocolate sales dataset to uncover marke
 - **Excel** (for quick checks and initial validation)  
 
 ## 📷 Dashboard Snapshot
-![Chocolate Dashboard](https://github.com/Danikyatham/Awesome-Chocolate-Market-Analysis/blob/main/dashboard%20background.png)
+![Chocolate Dashboard](https://github.com/Danikyatham/Awesome-Chocolate-Market-Analysis/blob/main/Dashboard%20snapshot.png)
 
 
 
